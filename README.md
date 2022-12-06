@@ -5,8 +5,6 @@ Shopping has never been more convienient, right from your screen to the palm of 
 The technologies used in this projact include Java, HTML, CSS, bootstrap, JavaScript and React
 Below is the project guidelines
 
-# Documentation
-
 # Contributing
 Rules For Contribuiting to Our React Codebase
 To maintain uniformity, improve code readability and make code maintenance easier across our entire code base
