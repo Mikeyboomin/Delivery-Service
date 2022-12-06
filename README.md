@@ -1,8 +1,8 @@
 # Delivery-Service
 Welcome on board the project,
-If you're just joining us we're working on a delivery service to ease the life of Nigerians
-Shopping has never been more convienient, right from your screen to the palm of your hands
-The technologies used in this projact include Java, HTML, CSS, bootstrap, JavaScript and React
+If you're just joining us we're working on a delivery service to ease the life of Nigerians.
+Shopping has never been more convienient, right from your screen to the palm of your hands.
+The technologies used in this project include Java, HTML, CSS, bootstrap, JavaScript and React
 Below is the project guidelines
 
 # Contributing
