@@ -7,10 +7,10 @@ Below is the project guidelines
 
 # Contributing
 Rules For Contribuiting to Our React Codebase
-To maintain uniformity, improve code readability and make code maintenance easier across our entire code base
-Most our code will follow the general JavaScript convention
+To maintain uniformity, improve code readability and make code maintenance easier across our entire code base.
+Most of our code will follow the general JavaScript convention
 
-Naming Convention
+# Naming Convention
 
 1. When writing function & variable names use lower camel casing
 2. When writing components name use Capitalization
@@ -20,7 +20,7 @@ Naming Convention
 6. Name of classes & ID's should all be lower case and a single word, if its more than one word it should be put together like this: two-words
 
 
-Other Convention
+# Other Convention
 
 1. Functions should be written as arrow functions
 2. Try as much as possible to refractor your code to avoid redundancy
