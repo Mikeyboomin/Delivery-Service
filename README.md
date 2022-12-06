@@ -14,15 +14,16 @@ Most of our code will follow the general JavaScript convention
 
 1. When writing function & variable names use lower camel casing
 2. When writing components name use Capitalization
-3. All names should be relevant to the project and the specific situation
+3. All class names and ID's should be relevant to the project and the specific situation
 4. All React file extensions should be .jsx
-5. Folder and file names should all start with capital letters
-6. Name of classes & ID's should all be lower case and a single word, if its more than one word it should be put together like this: two-words
+5. Folder names should be in lower case
+6. File names should be Capitalized
+7. Name of classes & ID's should all be lower case and a single word, if its more than one word it should be put together like this: two-words
 
 
 # Other Convention
 
-1. Functions should be written as arrow functions
+1. Functions should not be written as arrow functions
 2. Try as much as possible to refractor your code to avoid redundancy
 3. Always put space around your operators
 4. Always use two spaces for indentation of code block
