@@ -4,7 +4,7 @@ If you're just joining us we're working on a delivery service to ease the life o
 The technologies used include HTML, CSS, bootstrap, JavaScript and React
 Below is the project guidelines
 
-#Contributing
+# Contributing
 Rules For Contribuiting to Our React Codebase
 To maintain uniformity, improve code readability and make code maintenance easier across our entire code base
 Most our code will follow the general JavaScript convention
